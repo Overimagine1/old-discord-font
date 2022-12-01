@@ -10,7 +10,8 @@ Download [the theme file](https://cdn.discordapp.com/attachments/582412074328653
 ## Custom CSS
 Most client mods have a Custom CSS tab. Paste this line into the top of your Custom CSS.
 ```css
-@import url(https://cdn.statically.io/gh/Overimagine1/old-discord-font/main/source.min.css);```
+@import url(https://cdn.statically.io/gh/Overimagine1/old-discord-font/main/source.min.css);
+```
 
 # Credits
 [Discord](https://discord.com/) for basically making the css lol
