@@ -6,7 +6,7 @@ The CSS was made by Discord themselves (I don't take any credit for the CSS), ho
 
 # How to use
 ## BetterDiscord
-Download [the theme file](https://cdn.discordapp.com/attachments/582412074328653847/1047982149518757969/old-discord-font.theme.css) and put it into your BD theme folder. If you don't know how to do this, instructions are [here.](https://smolalli.github.io/BetterDiscord/v-addons/). You can also follow the method below.
+Download [the theme file](https://cdn.discordapp.com/attachments/582412074328653847/1047982149518757969/old-discord-font.theme.css) and put it into your BD theme folder. If you don't know how to do this, instructions are [here](https://smolalli.github.io/BetterDiscord/v-addons/). You can also follow the method below.
 
 ## Custom CSS
 Most client mods have a Custom CSS tab. Paste this line into the top of your Custom CSS.
