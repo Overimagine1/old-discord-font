@@ -2,7 +2,7 @@
 ![](https://user-images.githubusercontent.com/79660414/205182982-62ce2892-02cd-40a7-b4cf-ac34e48ddc21.png)
 Simple CSS to revert Discord's font change back to Whitney. 
 
-The CSS was made by Discord themselves (I don't take any credit for the CSS), however I'm hosting the fonts on GitHub in order to prevent risk of them being taken off Discord's Servers.
+The CSS was made by Discord themselves (I don't take any credit for the CSS, and anyone taking credit is likely delusional), however I'm hosting the fonts on GitHub in order to prevent risk of them being taken off Discord's Servers.
 
 # How to use
 ## BetterDiscord
