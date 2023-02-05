@@ -167,13 +167,37 @@
     src:url(https://cdn.jsdelivr.net/gh/Overimagine1/old-discord-font/fonts/dc407fd65057fce34a56bf7b6ebb0b9f.woff2) format("woff2")
 }
 
-:root{
-    --font-primary:Whitney,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    --font-display:"ABC Ginto Normal","Helvetica Neue",Helvetica,Arial,sans-serif;
-    --font-headline:"ABC Ginto Nord","Helvetica Neue",Helvetica,Arial,sans-serif;
-    --font-code:Consolas,"Andale Mono WT","Andale Mono","Lucida Console","Lucida Sans Typewriter","DejaVu Sans Mono","Bitstream Vera Sans Mono","Liberation Mono","Nimbus Mono L",Monaco,"Courier New",Courier,monospace;
-    --font-korean:Whitney,"Apple SD Gothic Neo",NanumBarunGothic,"\B9D1\C740 \ACE0\B515","Malgun Gothic",Gulim,굴림,Dotum,돋움,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    --font-japanese:Whitney,"Hiragino Sans","\30D2\30E9\30AE\30CE\89D2\30B4 ProN W3","Hiragino Kaku Gothic ProN",メイリオ,Meiryo,Osaka,"MS PGothic","Helvetica Neue",Helvetica,Arial,sans-serif;
-    --font-chinese-simplified:Whitney,"Microsoft YaHei New",微软雅黑,"Microsoft Yahei","Microsoft JhengHei",宋体,SimSun,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    --font-chinese-traditional:Whitney,"Microsoft JhengHei",微軟正黑體,"Microsoft JhengHei UI","Microsoft YaHei",微軟雅黑,宋体,SimSun,"Helvetica Neue",Helvetica,Arial,sans-serif
+:root {
+    --font-primary: Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    --font-display: "ABC Ginto Normal", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    --font-headline: "ABC Ginto Nord", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+:lang(ko),
+  :root {
+    --font-code: Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace;
+}
+:lang(ko) {
+    --font-primary: Whitney, "Apple SD Gothic Neo", NanumBarunGothic, "\B9D1\C740   \ACE0\B515", "Malgun Gothic", Gulim, êµ´ë¦¼, Dotum, ë‹ì›€, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    --font-display: "ABC Ginto Normal", "Apple SD Gothic Neo", NanumBarunGothic, "\B9D1\C740   \ACE0\B515", "Malgun Gothic", Gulim, êµ´ë¦¼, Dotum, ë‹ì›€, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    --font-headline: "ABC Ginto Nord", "Apple SD Gothic Neo", NanumBarunGothic, "\B9D1\C740   \ACE0\B515", "Malgun Gothic", Gulim, êµ´ë¦¼, Dotum, ë‹ì›€, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+:lang(ja) {
+    --font-primary: Whitney, "Hiragino Sans", "\30D2\30E9\30AE\30CE\89D2\30B4   ProN W3", "Hiragino Kaku Gothic ProN", ãƒ¡ã‚¤ãƒªã‚ª, Meiryo, Osaka, "MS PGothic", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    --font-display: "ABC Ginto Normal", "Hiragino Sans", "\30D2\30E9\30AE\30CE\89D2\30B4   ProN W3", "Hiragino Kaku Gothic ProN", ãƒ¡ã‚¤ãƒªã‚ª, Meiryo, Osaka, "MS PGothic", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    --font-headline: "ABC Ginto Nord", "Hiragino Sans", "\30D2\30E9\30AE\30CE\89D2\30B4   ProN W3", "Hiragino Kaku Gothic ProN", ãƒ¡ã‚¤ãƒªã‚ª, Meiryo, Osaka, "MS PGothic", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+:lang(ja),
+  :lang(zh-CN) {
+    --font-code: Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace;
+}
+:lang(zh-CN) {
+    --font-primary: Whitney, "Microsoft YaHei New", å¾®è½¯é›…é»‘, "Microsoft Yahei", "Microsoft JhengHei", å®‹ä½“, SimSun, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    --font-display: "ABC Ginto Normal", "Microsoft YaHei New", å¾®è½¯é›…é»‘, "Microsoft Yahei", "Microsoft JhengHei", å®‹ä½“, SimSun, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    --font-headline: "ABC Ginto Nord", "Microsoft YaHei New", å¾®è½¯é›…é»‘, "Microsoft Yahei", "Microsoft JhengHei", å®‹ä½“, SimSun, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+:lang(zh-TW) {
+    --font-primary: Whitney, "Microsoft JhengHei", å¾®è»Ÿæ­£é»‘é«”, "Microsoft JhengHei UI", "Microsoft YaHei", å¾®è»Ÿé›…é»‘, å®‹ä½“, SimSun, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    --font-display: "ABC Ginto Normal", "Microsoft JhengHei", å¾®è»Ÿæ­£é»‘é«”, "Microsoft JhengHei UI", "Microsoft YaHei", å¾®è»Ÿé›…é»‘, å®‹ä½“, SimSun, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    --font-headline: "ABC Ginto Nord", "Microsoft JhengHei", å¾®è»Ÿæ­£é»‘é«”, "Microsoft JhengHei UI", "Microsoft YaHei", å¾®è»Ÿé›…é»‘, å®‹ä½“, SimSun, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    --font-code: Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace;
+  }
