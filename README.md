@@ -7,14 +7,15 @@ The CSS was made by Discord themselves **(I don't take any credit for the CSS)**
 
 # How to use
 ## BetterDiscord
-Download [the theme file](https://cdn.discordapp.com/attachments/582412074328653847/1048468116939755531/old-discord-font.theme.css) and put it into your BD theme folder. If you don't know how to do this, instructions are [here](https://smolalli.github.io/BetterDiscord/v-addons/).
+Download [the theme file](https://cdn.discordapp.com/attachments/582412074328653847/1048468116939755531/old-discord-font.theme.css) and put it into your BD theme folder. If you don't know how to do this, instructions are [here](https://docs.betterdiscord.app/users/guides/installing-addons/).
 
 ## Vencord
 Go to your themes tab and copy and paste this text in the "Theme Links" box.
 `https://cdn.jsdelivr.net/gh/Overimagine1/old-discord-font/source.min.css`
 
-## Custom CSS
+## Custom CSS / OpenAsar
 Most client mods have a Custom CSS tab. Paste this line into the top of your Custom CSS.
 ```css
 @import url(//cdn.jsdelivr.net/gh/Overimagine1/old-discord-font/source.min.css);
 ```
+To access OpenAsar's theming, go to you OpenAsar Settings then click "Theming" in the top right, then paste it in there.
