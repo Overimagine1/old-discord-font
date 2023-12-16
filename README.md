@@ -11,7 +11,12 @@ Download [the theme file](https://cdn.discordapp.com/attachments/582412074328653
 
 ## Vencord
 Go to your themes tab and copy and paste this text in the "Theme Links" box.
+
 `https://cdn.jsdelivr.net/gh/Overimagine1/old-discord-font/source.min.css`
+
+Alternate link if above doesn't work
+
+`https://overimagine1.github.io/old-discord-font/source.css`
 
 ## Custom CSS / OpenAsar
 Most client mods have a Custom CSS tab. Paste this line into the top of your Custom CSS.
