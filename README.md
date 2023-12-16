@@ -16,6 +16,12 @@ Go to your themes tab and copy and paste this text in the "Theme Links" box.
 ## Custom CSS / OpenAsar
 Most client mods have a Custom CSS tab. Paste this line into the top of your Custom CSS.
 ```css
-@import url(//cdn.jsdelivr.net/gh/Overimagine1/old-discord-font/source.min.css);
+@import url(https//cdn.jsdelivr.net/gh/Overimagine1/old-discord-font/source.min.css);
 ```
+
+Alternate import if the above doesn't work
+```css
+@import url(https://overimagine1.github.io/old-discord-font/source.css);
+```
+
 To access OpenAsar's theming, go to you OpenAsar Settings then click "Theming" in the top right, then paste it in there.
