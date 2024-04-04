@@ -1,5 +1,5 @@
 # Old Discord Font
-![](https://cdn.discordapp.com/attachments/558067831791419448/1153577771910570054/image.png)
+![](https://pages.overimagine.xyz/old-discord-font/images/preview.png)
 Simple CSS to revert Discord's 2022 font change back to Whitney. 
 
 The CSS was made by Discord themselves **(I don't take any credit for the CSS)**, however I'm hosting the fonts on GitHub in order to prevent risk of them being taken off Discord's Servers.
