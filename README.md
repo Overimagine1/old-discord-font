@@ -13,7 +13,7 @@ Go to your themes tab and copy and paste this text in the "Theme Links" box.
 
 Alternate link if above doesn't work
 
-`https://cdn.jsdelivr.net/gh/Overimagine1/old-discord-font/source.min.css` 
+`https://cdn.jsdelivr.net/gh/Overimagine1/old-discord-font/source.css` 
 ## BetterDiscord
 Download [the theme file](https://raw.githubusercontent.com/Overimagine1/old-discord-font/main/OldDiscordFont.theme.css) and put it into your BD theme folder. If you don't know how to do this, instructions are [here](https://docs.betterdiscord.app/users/guides/installing-addons/).
 ## Custom CSS / OpenAsar
@@ -24,7 +24,7 @@ Most client mods have a Custom CSS tab. Paste this line into the top of your Cus
 
 Alternate import if the above doesn't work
 ```css
-@import url(https://cdn.jsdelivr.net/gh/Overimagine1/old-discord-font/source.min.css);
+@import url(https://cdn.jsdelivr.net/gh/Overimagine1/old-discord-font/source.css);
 ```
 
 To access OpenAsar's theming, go to you OpenAsar Settings then click "Theming" in the top right, then paste it in there.
