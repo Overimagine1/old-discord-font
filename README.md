@@ -10,7 +10,7 @@ No. I'm not gonna point fingers, but someone in the BD server was claiming that 
 ## Vencord
 Go to your themes tab and copy and paste this text in the "Theme Links" box.
 
-`https://pages.overimagine.xyz/old-discord-font/source.css`
+`https://overimagine1.github.io/old-discord-font/source.css`
 
 Alternate link if above doesn't work
 
@@ -23,9 +23,13 @@ Most client mods have a Custom CSS tab. Paste this line into the top of your Cus
 @import url(https://pages.overimagine.xyz/old-discord-font/source.css);
 ```
 
+Import for Vencord Quick CSS
+```css
+@import url(https://overimagine1.github.io/old-discord-font/source.css);
+```
+
 Alternate import if the above doesn't work
 ```css
 @import url(https://cdn.jsdelivr.net/gh/Overimagine1/old-discord-font/source.css);
 ```
-
 To access OpenAsar's theming, go to you OpenAsar Settings then click "Theming" in the top right, then paste it in there.
