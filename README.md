@@ -1,7 +1,7 @@
 # Old Discord Font
 ![](https://pages.overimagine.xyz/old-discord-font/images/preview.png)
 
-Simple CSS to revert Discord's 2022 font change back to Whitney. [Live preview here](https://discord-preview.vercel.app/?file=https://pages.overimagine.xyz/old-discord-font/source.css).
+Simple CSS to revert Discord's 2022 font change back to Whitney. [Live preview here](https://discord-preview.vercel.app/?file=https://cdn.jsdelivr.net/gh/Overimagine1/old-discord-font/source.css).
 
 The CSS was made by Discord themselves **(I don't take any credit for the CSS)**, however I'm hosting the fonts on GitHub in order to prevent risk of them being taken off Discord's Servers.
 # Is this dead?
@@ -10,26 +10,12 @@ No. I'm not gonna point fingers, but someone in the BD server was claiming that 
 ## Vencord
 Go to your themes tab and copy and paste this text in the "Theme Links" box.
 
-`https://overimagine1.github.io/old-discord-font/source.css`
-
-Alternate link if above doesn't work
-
 `https://cdn.jsdelivr.net/gh/Overimagine1/old-discord-font/source.css` 
+
 ## BetterDiscord
 Download [the theme file](https://raw.githubusercontent.com/Overimagine1/old-discord-font/main/OldDiscordFont.theme.css) and put it into your BD theme folder. If you don't know how to do this, instructions are [here](https://docs.betterdiscord.app/users/guides/installing-addons/).
 ## Custom CSS / OpenAsar
 Most client mods have a Custom CSS tab. Paste this line into the top of your Custom CSS.
 ```css
-@import url(https://pages.overimagine.xyz/old-discord-font/source.css);
-```
-
-Import for Vencord Quick CSS
-```css
-@import url(https://overimagine1.github.io/old-discord-font/source.css);
-```
-
-Alternate import if the above doesn't work
-```css
 @import url(https://cdn.jsdelivr.net/gh/Overimagine1/old-discord-font/source.css);
 ```
-To access OpenAsar's theming, go to you OpenAsar Settings then click "Theming" in the top right, then paste it in there.
