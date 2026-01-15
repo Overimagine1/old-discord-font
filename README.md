@@ -9,7 +9,7 @@ No, it just doesn't require much matinence due to how the CSS is.
 ## Vencord Online Themes
 Go to your themes tab and copy and paste this text in the "Theme Links" box.
 
-`https://cdn.jsdelivr.net/gh/Overimagine1/old-discord-font/source.css` 
+`https://cdn.jsdelivr.net/gh/Overimagine1/old-discord-font/OldDiscordFont.theme.css`
 
 ## BetterDiscord/Vencord Local Themes
 Download [the theme file](https://raw.githubusercontent.com/Overimagine1/old-discord-font/main/OldDiscordFont.theme.css) and put it into your BetterDiscord/Vencord theme folder.
